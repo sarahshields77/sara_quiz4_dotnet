@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SaraQuiz4App.props" />
+</Project>

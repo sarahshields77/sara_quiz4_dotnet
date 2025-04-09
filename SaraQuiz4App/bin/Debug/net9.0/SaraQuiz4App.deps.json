@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SaraQuiz4App/1.0.0": {
+        "runtime": {
+          "SaraQuiz4App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaraQuiz4App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
